@@ -7,7 +7,9 @@
 
 ## Installation
 
-_coming soon!_
+```bash
+$ composer require uniphil/merge-rss
+```
 
 
 ## Usage
@@ -35,7 +37,7 @@ $feed2 = simplexml_load_string(
       </channel>
     </rss>');
 
-$merged = MergeRSS\merge_rss(array($xml1, $xml2));
+$merged = MergeRSS\merge_rss(array($feed1, $feed2));
 echo $merged->asXML();
 ```
 
