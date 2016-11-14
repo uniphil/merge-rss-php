@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCqFzWxSCi39LnW1JKFR3efg"/>
+ <id>yt:channel:UCqFzWxSCi39LnW1JKFR3efg</id>
+ <yt:channelId>UCqFzWxSCi39LnW1JKFR3efg</yt:channelId>
+ <title>Saturday Night Live</title>
+ <link rel="alternate" href="http://www.youtube.com/channel/UCqFzWxSCi39LnW1JKFR3efg"/>
+ <author>
+  <name>Saturday Night Live</name>
+  <uri>http://www.youtube.com/channel/UCqFzWxSCi39LnW1JKFR3efg</uri>
+ </author>
+ <published>2013-07-23T21:32:27+00:00</published>
+ <entry>
+  <id>yt:video:5TjrmEAVLcA</id>
+  <yt:videoId>5TjrmEAVLcA</yt:videoId>
+  <yt:channelId>UCqFzWxSCi39LnW1JKFR3efg</yt:channelId>
+  <title>SNL Host Dave Chappelle Has Arrived</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=5TjrmEAVLcA"/>
+  <author>
+   <name>Saturday Night Live</name>
+   <uri>http://www.youtube.com/channel/UCqFzWxSCi39LnW1JKFR3efg</uri>
+  </author>
+  <published>2016-11-08T22:30:26+00:00</published>
+  <updated>2016-11-09T16:12:18+00:00</updated>
+  <media:group>
+   <media:title>SNL Host Dave Chappelle Has Arrived</media:title>
+   <media:content url="https://www.youtube.com/v/5TjrmEAVLcA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5TjrmEAVLcA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Dave Chappelle hosts Saturday Night Live on November 12, 2016, with musical guest A Tribe Called Quest.
+
+Get more SNL: http://www.nbc.com/saturday-night-live
+Full Episodes: http://www.nbc.com/saturday-night-liv...
+
+Like SNL: https://www.facebook.com/snl
+Follow SNL: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Pinterest: http://www.pinterest.com/nbcsnl/
+
+Get more SNL on Hulu: http://www.hulu.com/saturday-night-live</media:description>
+   <media:community>
+    <media:starRating count="2258" average="4.93" min="1" max="5"/>
+    <media:statistics views="83515"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TVueoznrt9Y</id>
+  <yt:videoId>TVueoznrt9Y</yt:videoId>
+  <yt:channelId>UCqFzWxSCi39LnW1JKFR3efg</yt:channelId>
+  <title>A Girl's Halloween - SNL</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=TVueoznrt9Y"/>
+  <author>
+   <name>Saturday Night Live</name>
+   <uri>http://www.youtube.com/channel/UCqFzWxSCi39LnW1JKFR3efg</uri>
+  </author>
+  <published>2016-10-23T07:48:35+00:00</published>
+  <updated>2016-11-09T15:50:33+00:00</updated>
+  <media:group>
+   <media:title>A Girl's Halloween - SNL</media:title>
+   <media:content url="https://www.youtube.com/v/TVueoznrt9Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TVueoznrt9Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Three friends' (Aidy Bryant, Cecily Strong, Vanessa Bayer) decision to have a quiet night doesn't go as planned. #SNLoween
+
+Get more SNL: http://www.nbc.com/saturday-night-live
+Full Episodes: http://www.nbc.com/saturday-night-liv...
+
+Like SNL: https://www.facebook.com/snl
+Follow SNL: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Pinterest: http://www.pinterest.com/nbcsnl/
+
+Get more SNL on Hulu: http://www.hulu.com/saturday-night-live</media:description>
+   <media:community>
+    <media:starRating count="23217" average="4.91" min="1" max="5"/>
+    <media:statistics views="2576852"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
