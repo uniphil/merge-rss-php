@@ -1,3 +1,10 @@
+## ⚠️ Unmaintained ⚠️
+
+I originally wrote this up for a client on Upwork, who disappeared and never paid. So I published it at some point, but it's really not something I have bandwidth for maintaining.
+
+I do not use it, and no future changes or updates are planned. I'm archiving it, but leaving it up in case it saves someone else a couple hours of work. Read the source and don't expect the most robust code in the world :)
+
+
 # merge-rss-php
 
 ## Requirements
